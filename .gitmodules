@@ -1,0 +1,45 @@
+[submodule "clang_complete"]
+	path = clang_complete
+	url = https://github.com/Rip-Rip/clang_complete.git
+[submodule "cocoa.vim"]
+	path = cocoa.vim
+	url = https://github.com/msanders/cocoa.vim.git
+[submodule "googletasks-vim"]
+	path = googletasks-vim
+	url = https://github.com/mattn/googletasks-vim.git
+[submodule "quicktask"]
+	path = quicktask
+	url = https://github.com/aaronbieber/quicktask.git
+[submodule "tabular"]
+	path = tabular
+	url = git://github.com/godlygeek/tabular.git
+[submodule "vim-dispatch"]
+	path = vim-dispatch
+	url = git://github.com/tpope/vim-dispatch.git
+[submodule "vim-ios"]
+	path = vim-ios
+	url = https://github.com/eraserhd/vim-ios.git
+[submodule "vim-kiwi"]
+	path = vim-kiwi
+	url = git://github.com/eraserhd/vim-kiwi.git
+[submodule "vim-misc"]
+	path = vim-misc
+	url = https://github.com/xolox/vim-misc.git
+[submodule "vim-rspec"]
+	path = vim-rspec
+	url = https://github.com/thoughtbot/vim-rspec.git
+[submodule "vim-session"]
+	path = vim-session
+	url = https://github.com/xolox/vim-session.git
+[submodule "vim-slim"]
+	path = vim-slim
+	url = git@github.com:slim-template/vim-slim.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "viske"]
+	path = viske
+	url = https://github.com/vimyum/viske
+[submodule "webapi-vim"]
+	path = webapi-vim
+	url = https://github.com/mattn/webapi-vim.git
