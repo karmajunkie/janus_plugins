@@ -43,3 +43,9 @@
 [submodule "webapi-vim"]
 	path = webapi-vim
 	url = https://github.com/mattn/webapi-vim.git
+[submodule "StripWhiteSpaces"]
+	path = StripWhiteSpaces
+	url = https://github.com/gagoar/StripWhiteSpaces.git
+[submodule "vim-autoclose"]
+	path = vim-autoclose
+	url = git://github.com/Townk/vim-autoclose.git
