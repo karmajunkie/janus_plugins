@@ -49,3 +49,9 @@
 [submodule "vim-autoclose"]
 	path = vim-autoclose
 	url = git://github.com/Townk/vim-autoclose.git
+[submodule "ag.vim"]
+	path = ag.vim
+	url = https://github.com/rking/ag.vim
+[submodule "vim-elixir"]
+	path = vim-elixir
+	url = https://github.com/elixir-lang/vim-elixir.git
