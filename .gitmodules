@@ -55,3 +55,6 @@
 [submodule "vim-elixir"]
 	path = vim-elixir
 	url = https://github.com/elixir-lang/vim-elixir.git
+[submodule "vim-hackernews"]
+	path = vim-hackernews
+	url = https://github.com/ryanss/vim-hackernews
